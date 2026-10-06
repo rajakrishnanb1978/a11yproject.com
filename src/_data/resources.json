@@ -1286,7 +1286,13 @@
 			"description": "WAI-ARIA Roles, States and Properties auto-completion for Sublime Text.",
 			"additional": "Indrek Paas",
 			"url": "https://packagecontrol.io/packages/WAI-ARIA"
-		}
+		},
+		{
+    "title": "UCS A11yAllies",
+    "description": "A Chrome-based accessibility testing workspace combining automated WCAG audits, guided manual testing, evidence capture, remediation, retesting, and audit-ready reporting.",
+    "additional": "Ultra Content Services LLP",
+    "url": "https://www.ultracontentservices.com/a11yallies/"
+},
 	],
 	"email": [
 		{
